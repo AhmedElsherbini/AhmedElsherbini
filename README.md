@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AhmedElsherbini
-- 👀 I’m interested in Bacterial and viral genomics ,and microbiome analtsis
+- 👀 I’m interested in Bacterial and viral genomics ,and microbiome analysis
 - 🌱 I’m currently learning Bioinformatics and Machine learning
 - 📫 How to reach me drahmedsherbini@yhaoo.com
 
