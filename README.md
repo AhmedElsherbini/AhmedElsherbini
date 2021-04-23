@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedElsherbini
 - 👀 I’m interested in Bacterial , Viral genomics and Microbiome analysis
-- 🌱 I’m currently improving my skills in Python, Bioinformatics and Machine learning
+- 🌱 I’m currently improving my skills in Bioinformatics and Machine learning
 - 📫 How to reach me drahmedsherbini@yhaoo.com
 
 <!---
