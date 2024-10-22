@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedElsherbini
 - 👀 I’m interested in Bacterial, Viral genomics and Microbiome data analysis
-- 🌱 I’m just learning and trying to improve my skills in bioinformatics , machine learning and in wet-lab work :))
+- 🌱 I’m trying to improve my skills in bioinformatics , machine learning and in wet-lab work :))
 - 📫 How to reach me? I'm a fast responder, just mail me.Looking forward to talking with you :))
 
 <!---
