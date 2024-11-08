@@ -12,3 +12,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedElsherbini&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedElsherbini&show_icons=true&count_private=true)
+
+
