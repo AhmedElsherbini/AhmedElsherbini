@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmedElsherbini
 - 👀 I’m interested in Bacterial, Viral genomics, and Microbiome data analysis
-- 🌱 bioinformatics, machine learning, and in wet-lab work :))
-- 📫 How to reach me? I'm a fast responder, just mail me. Looking forward to talking with you :))
+- 🌱 Microbiology, bioinformatics, machine learning, and in wet-lab work :))
+- 📫 How to reach me? I'm a fast responder, just email me. Looking forward to talking with you :))
 
 <!---
 AhmedElsherbini/AhmedElsherbini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
